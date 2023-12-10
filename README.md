@@ -82,7 +82,7 @@ const ChildComponent = (props) => {
 };
 
 // You could use this way either
-const Button = ({}) => <button>{Children}</button>;
+const Button = ({}) => <button>{children}</button>;
 ```
 
 ##### State
